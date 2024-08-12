@@ -1,0 +1,49 @@
+
+.container {
+    color: red;
+    width: 400px;
+    justify-content: center;
+    height: 100%;
+}
+
+.container span {
+   color: black;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 26px;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   
+
+}
+
+.input {
+    cursor: pointer;
+    border-radius: 1px;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.button {
+    background-color: rgb(59, 10, 105);
+    color: #fff;
+    margin: 2px;
+}
+
+.containerWrapper {
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(151, 56, 170);
+    width: 50%;
+}
+
+.inputWrapper {
+    padding: 8px 12px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
